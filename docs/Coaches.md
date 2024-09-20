@@ -1,16 +1,17 @@
 # Our Coaches and Instructors
 
----
-
 <style>
 table {
-  width: auto;
+	width: auto;
+	border: none !important;
 }
 table th:first-of-type {
-    width: 75%;
+	width: 75%;
+	border: none !important;
 }
 table th:nth-of-type(2) {
-    width: 25%;
+	width: 25%;
+	border: none !important;
 }
 </style>
 ## [Jon Holtz](mailto:jon@excelsiorfencing.ca)
