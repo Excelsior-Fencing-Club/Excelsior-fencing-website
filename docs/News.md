@@ -1,3 +1,4 @@
+
 # News
 
 ## University of Waterloo - Without Limits Event
@@ -8,6 +9,8 @@ The UW team is doing a 12 hr fence-a-thon next Friday (10am-10pm) and it's open 
 
 Posted: 2024-09-20
 
+---
+
 ## Tournament schedule - Fall 2024
 
 The OFA has posted the tournament schedule for September 2024 to January 2024: [https://fencingontario.ca/calendar/](https://fencingontario.ca/calendar/)
@@ -17,6 +20,8 @@ The OFA has posted the tournament schedule for September 2024 to January 2024: 
 If you're interested in this tournament, make sure to talk to coaches Callum & Paul.
 
 Posted: 2024-09-20
+
+---
 
 ## OFA memberships
 

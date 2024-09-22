@@ -1,4 +1,5 @@
-# News
+
+# Front Page
 
 ## [University of Waterloo - Without Limits Event](News.md#university-of-waterloo---without-limitsevent)
 
@@ -7,6 +8,8 @@ The UW team is doing a 12 hr fence-a-thon next Friday (10am-10pm) and it's open 
 [https://warrior.uwaterloo.ca/program/GetProgramDetails?courseId=6ba0da1d-45d2-40d8-a89d-5ede443a3728](https://warrior.uwaterloo.ca/program/GetProgramDetails?courseId=6ba0da1d-45d2-40d8-a89d-5ede443a3728)
 
 Posted: 2024-09-20
+
+---
 
 ## [Tournament schedule - Fall 2024](News.md#tournament-schedule---fall2024)
 
@@ -17,6 +20,8 @@ The OFA has posted the tournament schedule for September 2024 to January 2024: 
 If you're interested in this tournament, make sure to talk to coaches Callum & Paul.
 
 Posted: 2024-09-20
+
+---
 
 ## [OFA memberships](News.md#ofamemberships)
 
