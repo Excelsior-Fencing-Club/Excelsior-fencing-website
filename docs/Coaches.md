@@ -1,16 +1,17 @@
 # Our Coaches and Instructors
 
----
-
 <style>
 table {
-  width: auto;
+	width: auto;
+	border: none !important;
 }
 table th:first-of-type {
-    width: 75%;
+	width: 75%;
+	border: none !important;
 }
 table th:nth-of-type(2) {
-    width: 25%;
+	width: 25%;
+	border: none !important;
 }
 </style>
 ## [Jon Holtz](mailto:jon@excelsiorfencing.ca)
@@ -48,6 +49,12 @@ table th:nth-of-type(2) {
 | Foil & Sabre                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Jackie has been fencing since 2022, when she joined the fencing club and, subsequently, the varsity team at the University of Waterloo. She started with sabre, but then later switched to foil.<br><br>In 2023, she joined the club as an assistant coach, and has since become a full coach.<br><br>Jackie is also training to become a fencing referee in Epee and Sabre. | [![Jackie_Heitzner.png](images/coaches/Jackie_Heitzner.png)](images/coaches/Jackie_Heitzner.png) |
+
+## [Michael Ivankovic](mailto:michael.ivankovic@gmail.com)
+
+| Foil & Epee       |                                                                |
+| ----------------- | -------------------------------------------------------------- |
+| Competitive coach | [![Michael_Ivankovic.jpg](images/coaches/Michael_Ivankovic.jpg)](images/coaches/Michael_Ivankovic.jpg) |
 
 ---
 
