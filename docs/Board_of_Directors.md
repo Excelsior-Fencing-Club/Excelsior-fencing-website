@@ -2,7 +2,10 @@
 
 <style>
 table {
-  width: auto;
+	width: auto;
+}
+th {
+	border: none !important;
 }
 </style>
 

@@ -10,7 +10,7 @@ You will see the label 'FIE' on this page. 'FIE' equipment offers the highest le
 
 ## Starter Set Option A - Absolute Deluxe Competition Foil Set
 
-## (approximate cost: $400)
+### (approximate cost: $400)
 
 Click [here](http://www.absolutefencinggear.com/shopping/product_info.php/products_id/1087/cPath/62?osCsid=qfl61h4313gv1ac2oh0cammon3) to start. For sizing information click [here](http://www.absolutefencinggear.com/shopping/sizinghelp.php?osCsid=qfl61h4313gv1ac2oh0cammon3).
 
@@ -70,7 +70,7 @@ If you are a female, you will need to add a chest plate. If you're a male, the c
 
 ## Starter Set Option C - Leon Paul Team FIE Kit
 
-## (approximate cost is $1,400).
+### (approximate cost is $1,400).
 
 Click [here](http://www.leonpaulusa.com/acatalog/Fencing_Starter_Kits.html) and then select Men's or Women's as appropriate. Then select the appropriate hand, and select the TEAM FIE FOIL KIT option. For sizing information, click [here](http://www.leonpaul.com/sizing/sizing_landing_page.html).
 

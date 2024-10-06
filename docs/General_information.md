@@ -1,17 +1,25 @@
-# General Information
-
-## 2023/2024 Programs and Pricing
+# 2023/2024 Programs and Pricing
 
 Questions? [info@excelsiorfencing.ca](mailto:treasurer@excelsiorfencing.ca)
+Better yet, come see us on fencing nights.
 
 More information about the programs we offer:
 
 - [Intro to Fencing](Intro_to_Fencing.md)
 - [Development and Recreation](Development_and_Recreation.md)
 
-## General Practice Information
+# General Practice Information
 
-### Our general nightly schedule will be as follows
+## Schedule of Fees
+
+| Program                                                             | Price                                                                   |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                             |
+| [Development and Recreation program](Development_and_Recreation.md) | $170/month or<br>$480/quarter (Billed in September, January, and April) |
+
+For all regular members (whether they pay monthly or per term), open fencing is free for the months of July and August.
+
+## Our general nightly schedule will be as follows
 
 <style>
 table {
@@ -43,16 +51,7 @@ The programming structure will rely less on large group instruction. Rather, ins
 
 New fencers will be integrated into the regular programming quickly, after a few weeks of group instruction to help get them familiar with the fundamental skills. Please see the section on our new “Introduction to Fencing” program for more information.
 
-### Schedule of Fees
-
-| Program                                                             | Price                                                                |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                          |
-| [Development and Recreation program](Development_and_Recreation.md) | $170/month or $480/quarter (Billed in September, January, and April) |
-
-For all regular members (whether they pay monthly or per term), open fencing is free for the months of July and August.
-
-### Equipment rental
+## Equipment rental
 
 If you don't have your own equipment, we can rent you some of ours. 
 

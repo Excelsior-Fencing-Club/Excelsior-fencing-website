@@ -10,7 +10,7 @@ This program introduces people to the sport of competitive fencing and teaches f
 
 ### Cost
 
-$200 for 6 weeks (twice per week: Mondays and Wednesdays)
+See: [General_information -> Schedule of fees](General_information.md#schedule-of-fees)
 
 ### Licenses
 
