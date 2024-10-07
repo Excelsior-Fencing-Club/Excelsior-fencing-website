@@ -10,7 +10,7 @@ Our Development and Recreation program is a year-round program. Fencers can join
 
 ### Cost
 
-$165/month or $470 for 3 months
+See: [General_information -> Schedule of fees](General_information.md#schedule-of-fees)
 
 ### Membership and Licenses
 
