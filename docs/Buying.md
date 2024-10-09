@@ -12,7 +12,8 @@ You will see the label 'FIE' on this page. 'FIE' equipment offers the highest le
 
 ### (approximate cost: $400)
 
-Click [here](http://www.absolutefencinggear.com/shopping/product_info.php/products_id/1087/cPath/62?osCsid=qfl61h4313gv1ac2oh0cammon3) to start. For sizing information click [here](http://www.absolutefencinggear.com/shopping/sizinghelp.php?osCsid=qfl61h4313gv1ac2oh0cammon3).
+Click [here](https://www.absolutefencinggear.com/deluxe-10-piece-electric-foil-set.html) to start.  
+[sizing information](https://www.absolutefencinggear.com/sizinghelp).
 
 Choose your gender, and hand.
 

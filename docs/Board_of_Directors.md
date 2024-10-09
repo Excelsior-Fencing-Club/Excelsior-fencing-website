@@ -1,14 +1,5 @@
 # Our Board of Directors (2023-2024):
 
-<style>
-table {
-	width: auto;
-}
-th {
-	border: none !important;
-}
-</style>
-
 | Role           | Name                                                   |
 | -------------- | ------------------------------------------------------ |
 | President      | [Andrew Petalik](mailto:president@excelsiorfencing.ca) |

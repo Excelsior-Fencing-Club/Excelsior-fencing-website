@@ -1,8 +1,8 @@
-# Regular Hours
 
-## Mondays and Wednesdays
+# Important Dates (2023-2024)
 
-6:30 pm - 9:00 pm
+{% include_relative News/2024-10-07_2024_fall_meeting.md %}
 
-## Important Dates (2023-2024)
+---
 
+{% include_relative News/2024-10-08_2024_AGM.md %}

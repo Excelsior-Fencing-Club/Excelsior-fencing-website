@@ -1,4 +1,4 @@
-# Tournament schedule - Fall 2024
+## Tournament schedule - Fall 2024
 
 The OFA has posted the tournament schedule for September 2024 to January 2024: [https://fencingontario.ca/calendar/](https://fencingontario.ca/calendar/)
 
