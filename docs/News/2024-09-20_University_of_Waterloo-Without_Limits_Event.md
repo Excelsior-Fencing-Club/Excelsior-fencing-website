@@ -1,4 +1,4 @@
-# University of Waterloo - Without Limits Event
+## University of Waterloo - Without Limits Event
 
 The UW team is doing a 12 hr fence-a-thon next Friday (10am-10pm) and it's open to non-UW fencers.
 

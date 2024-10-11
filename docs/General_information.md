@@ -1,6 +1,6 @@
 # 2023/2024 Programs and Pricing
 
-Questions? [info@excelsiorfencing.ca](mailto:treasurer@excelsiorfencing.ca)
+Questions? [info@excelsiorfencing.ca](mailto:treasurer@excelsiorfencing.ca)  
 Better yet, come see us on fencing nights.
 
 More information about the programs we offer:
@@ -22,10 +22,6 @@ For all regular members (whether they pay monthly or per term), open fencing is 
 ## Our general nightly schedule will be as follows
 
 <style>
-table {
-	width: auto;
-	border: none !important;
-}
 table th:first-of-type {
 	width: auto;
 	border: none !important;
@@ -44,6 +40,8 @@ table th:nth-of-type(2) {
 | 7:00-8:00  | Bouting                                       |
 | 7:00-close | Individual and small group lessons            |
 | 8:00-close | Open fencing                                  |
+
+**Note**: Close is around 9:00.
 
 We build a lot of bouting into our programming, and want to provide more opportunities for fencers who are interested in training hard and competing. At the same time, we will continue to provide development opportunities for fencers who are interested in developing at a more gradual pace, and who are less interested in competition.
 

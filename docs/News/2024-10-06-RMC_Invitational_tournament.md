@@ -1,10 +1,10 @@
-# RMC Invitational 2024
+## RMC Invitational 2024
 
-## Date
+### Date
 
 November 2rd & 3rd
 
-## Location
+### Location
 
 Kingston Military Community Sport Centre (KMCSC)  
 11 Navy Way  
@@ -12,7 +12,7 @@ Anderson Field House
 Royal Military College of Canada  
 Kingston, Ontario
 
-## Details
+### Details
 
 RMC Invitation registrations are open: [https://ontariofencingassociation.wufoo.com/forms/mcw0nxr0f1hge5/](https://ontariofencingassociation.wufoo.com/forms/mcw0nxr0f1hge5/ "https://ontariofencingassociation.wufoo.com/forms/mcw0nxr0f1hge5/") 
 
