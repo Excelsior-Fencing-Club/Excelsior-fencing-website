@@ -19,6 +19,10 @@ More information about the programs we offer:
 
 For all regular members (whether they pay monthly or per term), open fencing is free for the months of July and August.
 
+## Minimum age for fencers
+
+The minimum age for a member is 10 years old.
+
 ## Our general nightly schedule will be as follows
 
 <style>
