@@ -12,10 +12,10 @@ More information about the programs we offer:
 
 ## Schedule of Fees
 
-| Program                                                             | Price                                                                   |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                             |
-| [Development and Recreation program](Development_and_Recreation.md) | $170/month or<br>$480/quarter (Billed in September, January, and April) |
+| Program                                                             | Price                                                                          |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                                    |
+| [Development and Recreation program](Development_and_Recreation.md) | $170/month or<br>$480/term. Billed in: <br>- September<br>- January<br>- April |
 
 For all regular members (whether they pay monthly or per term), open fencing is free for the months of July and August.
 

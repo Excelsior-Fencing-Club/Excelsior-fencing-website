@@ -11,3 +11,6 @@ Which includes:
 - Body wire
 - Mask wire
 - Sword
+- Lame
+
+This is all the equipment you will need.

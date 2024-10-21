@@ -8,12 +8,15 @@ If you have questions or looking for recommendations, talk to one of the coaches
 
 ### Based in Canada
 
+- [Crossed Swords](https://www.crossedswords.ca/)
 - [Imex](https://imexsport.ca/)
 - [Leon Paul](https://www.leonpaulcanada.com/)
 
 ### Based in the United States
 
 - [Absolute Fencing](https://www.absolutefencinggear.com/)
+
+**Note**: Import duties will be applied at the border. Absolute Fencing cannot provide the cost of the border fees.
 
 ## Equipment terms
 

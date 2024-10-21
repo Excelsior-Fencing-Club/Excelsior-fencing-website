@@ -21,24 +21,21 @@ more links to follow soon!
 
 ## Fencing Organizations
 
-- [British Fencing Association](http://www.britishfencing.com/)
-- [Canadian Fencing Federation](http://www.fencing.ca/)
-- [Federation Internationale d'Escrime](http://www.fie.ch/Welcome.aspx)
-- [International Wheelchair Fencing Association](http://www.iwasf.com/iwasf/index.cfm/sports/iwas-wheelchair-fencing/)
 - [Ontario Fencing Association](http://fencingontario.ca/)
+- [Canadian Fencing Federation](http://www.fencing.ca/)
+- [British Fencing Association](http://www.britishfencing.com/)
+- [Federation Internationale d'Escrime](http://www.fie.ch/Welcome.aspx)
+- [Fencing.net](http://www.fencing.net/)
+- [International Wheelchair Fencing Association](http://www.iwasf.com/iwasf/index.cfm/sports/iwas-wheelchair-fencing/)
 - [Leon Paul Armoury Blog](https://www.leonpaul.com/blog/armoury/)
+- [Right of Way Fencing Academy](https://www.rightofwayfencingacademy.com/)
 - [US Fencing](http://www.usfencing.org/)
 
 ## Local Clubs
 
 - [Niagara Swordsmen](http://fencingniagara.com/)
 - [Oakville Fencing Club](http://www.canadianfencingacademy.ca/)
-- [Westdale Fencing Club (Hamilton) [our RCDC Partner]](http://www.westdalefencing.com/)
-
-## Discussion Groups
-
-- [Fencing.net](http://www.fencing.net/forums/)
-- [The Fencing Forum](http://fencingforum.com/forum/)
+- [Westdale Fencing Club (Hamilton)](http://www.westdalefencing.com/) our RCDC Partner.
 
 ## Random Stuff
 
