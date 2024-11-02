@@ -1,5 +1,9 @@
 # News archive
 
+{% include_relative News/2024-11-01_Michael_Ivankovic.md %}
+
+---
+
 {% include_relative News/2024-10-07_2024_fall_meeting.md %}
 
 ---
