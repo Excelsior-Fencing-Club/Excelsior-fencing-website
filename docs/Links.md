@@ -28,14 +28,14 @@ more links to follow soon!
 - [Fencing.net](http://www.fencing.net/)
 - [International Wheelchair Fencing Association](http://www.iwasf.com/iwasf/index.cfm/sports/iwas-wheelchair-fencing/)
 - [Leon Paul Armoury Blog](https://www.leonpaul.com/blog/armoury/)
-- [Right of Way Fencing Academy](https://www.rightofwayfencingacademy.com/)
 - [US Fencing](http://www.usfencing.org/)
 
 ## Local Clubs
 
 - [Niagara Swordsmen](http://fencingniagara.com/)
 - [Oakville Fencing Club](http://www.canadianfencingacademy.ca/)
-- [Westdale Fencing Club (Hamilton)](http://www.westdalefencing.com/) our RCDC Partner.
+- [Right of Way Fencing Academy](https://www.rightofwayfencingacademy.com/)
+- [Westdale Fencing Club (Hamilton)](http://www.westdalefencing.com/)
 
 ## Random Stuff
 
