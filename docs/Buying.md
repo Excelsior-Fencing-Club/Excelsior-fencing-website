@@ -6,10 +6,8 @@ If you have questions or looking for recommendations, talk to one of the coaches
 
 ## Vendors
 
-### Based in Canada
+### Based in the United Kingdom but has Canadian locations
 
-- [Crossed Swords](https://www.crossedswords.ca/)
-- [Imex](https://imexsport.ca/)
 - [Leon Paul](https://www.leonpaulcanada.com/)
 
 ### Based in the United States
