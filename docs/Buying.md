@@ -6,7 +6,7 @@ If you have questions or looking for recommendations, talk to one of the coaches
 
 ## Vendors
 
-### Based in the United Kingdom but has Canadian locations
+### Based in the United Kingdom that has Canadian locations
 
 - [Leon Paul](https://www.leonpaulcanada.com/)
 
