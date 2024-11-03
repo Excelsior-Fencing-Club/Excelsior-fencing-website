@@ -1,7 +1,9 @@
 
 # Equipment rental
 
-$10/week.
+## Members
+
+$40/month or $120/term
 
 Which includes:
 
@@ -14,3 +16,7 @@ Which includes:
 - Lame
 
 This is all the equipment you will need.
+
+## Drop-in & University students
+
+$20/item.
