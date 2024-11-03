@@ -32,7 +32,7 @@ more links to follow soon!
 
 ## Local Clubs
 
-- [Niagara Swordsmen](http://fencingniagara.com/)
+- [Niagara Swords Fencing Club](http://fencingniagara.com/)
 - [Oakville Fencing Club](http://www.canadianfencingacademy.ca/)
 - [Right of Way Fencing Academy](https://www.rightofwayfencingacademy.com/)
 - [Westdale Fencing Club (Hamilton)](http://www.westdalefencing.com/)
