@@ -5,9 +5,10 @@
 
 Fencers interested in coaching with a focus on competition can talk to Michael for more details.
 
-He is at the gym at around:
+Training time starts at:
 
 | Day       | Time   |
 | --------- | ------ |
+| Monday    | 8:00PM |
 | Wednesday | 8:00PM |
 | Friday    | 7:00PM |
