@@ -14,7 +14,7 @@ See: [General_information -> Schedule of fees](General_information.md#schedule-o
 
 ## Membership and Licenses
 
-All fencers who have completed an introductory program and wish to join our regular programming must [purchase a membership in the Ontario Fencing Association](https://fencingontario.ca/about-the-ofa/membership-information/) ($35 – $80 depending on the level). The club registrar can assist with membership purchases.
+All fencers who have completed an introductory program and wish to join our regular programming must [purchase a membership in the Ontario Fencing Association](https://fencingontario.ca/about-the-ofa/membership-information/) ($42.50 – $87.50 depending on the level). The club registrar can assist with membership purchases.
 
 ## Equipment
 

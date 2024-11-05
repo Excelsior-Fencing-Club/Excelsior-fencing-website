@@ -6,3 +6,11 @@
 ---
 
 {% include_relative News/2024-10-08_2024_AGM.md %}
+
+---
+
+## Holidays
+
+{% include_relative News/2024_holidays.md %}
+
+{% include_relative News/2025_holidays.md %}

@@ -1,6 +1,6 @@
 # Where to find us
 
-61 Willow St, Waterloo.
+77 Willow St, Waterloo.
 
 ![StLouisChurch.png](images/StLouisChurch.png)
 

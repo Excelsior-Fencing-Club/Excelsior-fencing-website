@@ -22,4 +22,4 @@ The club provides all equipment for the intro class. Beyond this time, fencers a
 
 ## Expectations
 
-Learn and enjoy fencing. Progress to our Development and Recreation program on completion of this program.
+Learn and enjoy fencing. Progress to our [Development and Recreation](Development_and_Recreation.md) program on completion of this program.

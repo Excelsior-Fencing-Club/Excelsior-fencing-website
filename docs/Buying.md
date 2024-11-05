@@ -6,14 +6,15 @@ If you have questions or looking for recommendations, talk to one of the coaches
 
 ## Vendors
 
-### Based in Canada
+### Based in the United Kingdom that has Canadian locations
 
-- [Imex](https://imexsport.ca/)
 - [Leon Paul](https://www.leonpaulcanada.com/)
 
 ### Based in the United States
 
 - [Absolute Fencing](https://www.absolutefencinggear.com/)
+
+**Note**: Import duties will be applied at the border. Absolute Fencing cannot provide the cost of the border fees.
 
 ## Equipment terms
 
