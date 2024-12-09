@@ -1,5 +1,9 @@
 # News archive
 
+{% include_relative News/2024-12-08_Closure_notification_prodcedure.md %}
+
+---
+
 {% include_relative News/2024-11-01_Michael_Ivankovic.md %}
 
 ---
