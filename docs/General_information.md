@@ -1,6 +1,6 @@
 # 2023/2024 Programs and Pricing
 
-Questions? [info@excelsiorfencing.ca](mailto:treasurer@excelsiorfencing.ca)  
+Questions? [info@excelsiorfencing.ca](mailto:info@excelsiorfencing.ca)  
 Better yet, come see us on fencing nights.
 
 More information about the programs we offer:
