@@ -1,5 +1,9 @@
 # Front Page
 
+{% include_relative News/2024-12-16-Tournament_practice_this_friday_is_open.md %}
+
+---
+
 {% include_relative News/2024-12-11_December_tournament.md %}
 
 ---
