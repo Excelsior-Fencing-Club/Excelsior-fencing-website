@@ -1,10 +1,6 @@
 
-## ### Michael Ivankovic class on Friday 
+## ### Michael Ivankovic's class on Friday December 20th is running as usual
 
-The OFA has posted the tournament schedule for September 2024 to January 2024: [https://fencingontario.ca/calendar/](https://fencingontario.ca/calendar/)
+In case you were wondering, Michael's Friday class, on December the 20<sup>th</sup>, is running at the [normal times](https://excelsiorfencing.ca/Competition.html).
 
-**Note**: The Mustang Invitational is on there twice, but the last Callum heard was that they are not happening.
-
-If you're interested in this tournament, make sure to talk to coaches Callum & Paul.
-
-Posted: 2024-12-16
+###### Posted: 2024-12-16
