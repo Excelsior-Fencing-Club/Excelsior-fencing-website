@@ -1,5 +1,9 @@
 # News archive
 
+{% include_relative News/2024-12-21-OFA_Referee_dev_clinic.md %}
+
+---
+
 {% include_relative News/2024-12-16-Tournament_practice_this_friday_is_open.md %}
 
 ---
