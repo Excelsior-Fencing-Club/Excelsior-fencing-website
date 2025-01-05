@@ -23,6 +23,13 @@ For all regular members (whether they pay monthly or per term), open fencing is 
 
 The minimum age for a member is 10 years old.
 
+## Days of operation
+
+The [Introductory program](Intro_to_Fencing.md) & [Development and Recreation program](Development_and_Recreation.md)  run on:
+
+- Monday
+- Wednesday
+
 ## Our general nightly schedule will be as follows
 
 <style>
@@ -58,4 +65,3 @@ New fencers will be integrated into the regular programming quickly, after a few
 If you don't have your own equipment, we can rent you some of ours. 
 
 Details on our [Equipment rental](Rental.md) page.
-
