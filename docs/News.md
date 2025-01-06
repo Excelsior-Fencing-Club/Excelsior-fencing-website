@@ -1,5 +1,9 @@
 # News archive
 
+{% include_relative News/2025/01/06-Carleton_Invitation.md %}
+
+---
+
 {% include_relative News/2024/2024-12-21-OFA_Referee_dev_clinic.md %}
 
 ---
