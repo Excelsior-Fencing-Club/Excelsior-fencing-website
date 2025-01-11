@@ -1,5 +1,9 @@
 # News archive
 
+{% include_relative News/2025/01/11-Abuse_in_Sport_and_Safe_Sport.md %}
+
+---
+
 {% include_relative News/2025/01/06-Carleton_Invitation.md %}
 
 ---
