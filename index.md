@@ -1,7 +1,8 @@
 
 # Excelsior Fencing Club
 
-{% include_relative News/2025/01/11-Abuse_in_Sport_and_Safe_Sport_content.md %}
+[link](News/2025/01/11-Abuse_in_Sport_and_Safe_Sport/)
+{% include_relative News/2025/01/11-Abuse_in_Sport_and_Safe_Sport/content.md %}
 
 ---
 

@@ -8,4 +8,4 @@ site_name: "Excelsior Fencing Club"
 title: "News: Webinar: Abuse in Sport and Safe Sport"
 ---
 
-{% include_relative 11-Abuse_in_Sport_and_Safe_Sport_content.md %}
+{% include_relative content.md %}
