@@ -1,6 +1,0 @@
-
-## Club activities and achievements
-
-
----
-
