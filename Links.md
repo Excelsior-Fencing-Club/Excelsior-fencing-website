@@ -1,3 +1,13 @@
+---
+image:
+  path: /images/Excelsior-logo.png
+  type: image/png
+  alt: Excelsior Fencing Club
+description: "Excelsior Fencing Club"
+site_name: "Excelsior Fencing Club"
+title: "Excelsior Fencing Club"
+---
+
 # Links
 
 Here's a list of links that we hope might be useful.
