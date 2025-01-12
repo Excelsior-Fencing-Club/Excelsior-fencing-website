@@ -8,11 +8,11 @@ site_name: "Excelsior Fencing Club"
 title: "News: Webinar: Abuse in Sport and Safe Sport"
 ---
 
-# Abuse in Sport and Safe Sport
+## Abuse in Sport and Safe Sport
 
 The KITCHENER WATERLOO SPORTS COUNCIL is excited to announce an important and timely webinar on the topic of **Abuse in Sport and Safe Sport**. This webinar aims to shed light on the challenges and dangers that athletes may face while offering practical insights into creating a safe sporting environment. The webinar is an excellent opportunity for athletes, parents, and directors of youth sports groups, academics, post-secondary students and sport administrators to gain valuable knowledge and tools to promote safety and well-being in sports.
 
-## Event Details
+### Event Details
 
 - **Format**: Panel Presentation and Discussion
 	- Two expert speakers presenting for 20 minutes each, followed by a 5-minute Q&A session after each talk.
@@ -20,7 +20,7 @@ The KITCHENER WATERLOO SPORTS COUNCIL is excited to announce an important and ti
 - **When**: January 17th at 6 PM
 - **Where**: Online (via Google Meet) A confirmation email will be sent to participants email (on your registration form) with the link to the webinar.
 
-## Key Topics & Speakers
+### Key Topics & Speakers
 
 **Allison Forsyth** (Founder of Generation Safe and former Canadian Olympic alpine skier)
 
@@ -32,7 +32,7 @@ The KITCHENER WATERLOO SPORTS COUNCIL is excited to announce an important and ti
 - Legal insights and reporting processes for various abuses.
 - Police support and prevention strategies for athletes in challenging circumstances.
 
-## Who Should Attend?
+### Who Should Attend?
 
 - Athletes and parents seeking tools to navigate and prevent dangers in sports.
 - Coaches and directors of youth sport groups interested in fostering safe and positive environments.
