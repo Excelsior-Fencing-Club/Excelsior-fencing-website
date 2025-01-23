@@ -8,7 +8,11 @@ site_name: "Excelsior Fencing Club"
 title: "Excelsior Fencing Club"
 ---
 
-# Important Dates (2023-2024)
+# Important Dates (2024-2025)
+
+{% include_relative News/Club_times_intro_and_rec.md %}
+
+{% include_relative News/Club_times_competition.md %}
 
 ## Holidays
 
