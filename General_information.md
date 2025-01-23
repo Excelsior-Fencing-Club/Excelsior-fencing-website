@@ -23,36 +23,7 @@ For all regular members (whether they pay monthly or per term), open fencing is 
 
 The minimum age for a member is 10 years old.
 
-## Days of operation
-
-The [Introductory program](Intro_to_Fencing.md) & [Development and Recreation program](Development_and_Recreation.md)  run on:
-
-- Monday
-- Wednesday
-
-## Our general nightly schedule will be as follows
-
-<style>
-table th:first-of-type {
-	width: auto;
-	border: none !important;
-}
-table th:nth-of-type(2) {
-	width: auto;
-	border: none !important;
-}
-</style>
-
-| Time       | Activity                                      |
-| ---------- | --------------------------------------------- |
-| 6:15-6:30  | Gym set up and welcome                        |
-| 6:30-6:45  | Warm-up and group games                       |
-| 6:45-7:00  | Group footwork and group lesson (all streams) |
-| 7:00-8:00  | Bouting                                       |
-| 7:00-close | Individual and small group lessons            |
-| 8:00-close | Open fencing                                  |
-
-**Note**: Close is around 9:00.
+{% include_relative News/Club_times_intro_and_rec.md %}
 
 We build a lot of bouting into our programming, and want to provide more opportunities for fencers who are interested in training hard and competing. At the same time, we will continue to provide development opportunities for fencers who are interested in developing at a more gradual pace, and who are less interested in competition.
 
