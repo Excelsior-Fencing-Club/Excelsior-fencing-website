@@ -10,6 +10,12 @@ title: "Excelsior Fencing Club"
 
 # News archive
 
+
+[link](News/2025/02/12/)
+{% include_relative News/2025/02/12/content.md %}
+
+---
+
 {% include_relative News/2024/2024-12-08_Closure_notification_prodcedure.md %}
 
 ---
