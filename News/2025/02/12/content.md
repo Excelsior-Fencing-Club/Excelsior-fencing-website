@@ -14,3 +14,5 @@ Also, per our [https://excelsiorfencing.ca/Calendar.html](https://excelsiorfenc
 See you all Wednesday next week.
 
 Stay safe!
+
+###### Posted: 2025-02-12
