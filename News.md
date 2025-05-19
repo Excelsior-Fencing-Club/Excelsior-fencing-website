@@ -10,38 +10,8 @@ title: "Excelsior Fencing Club"
 
 # News archive
 
-[link](News/2025/05/07/)
-{% include_relative News/2025/05/07/content.md %}
-
----
-
-[link](News/2025/04/27/)
-{% include_relative News/2025/04/27/content.md %}
-
----
-
-[link](News/2025/04/03/)
-{% include_relative News/2025/04/03/content.md %}
-
----
-
-[link](News/2025/04/02/)
-{% include_relative News/2025/04/02/content.md %}
-
----
-
-[link](News/2025/03/08/)
-{% include_relative News/2025/03/08/content.md %}
-
----
-
-[link](News/2025/02/13/)
-{% include_relative News/2025/02/13/content.md %}
-
----
-
-[link](News/2025/02/12/)
-{% include_relative News/2025/02/12/content.md %}
+[link](News/2025/05/19/)
+{% include_relative News/2025/05/19/content.md %}
 
 ---
 
