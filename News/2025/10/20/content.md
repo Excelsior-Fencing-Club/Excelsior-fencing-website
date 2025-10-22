@@ -9,7 +9,7 @@ All items are available in youth, women's and men's sizes.  Sizing charts are
 
 **All Excelsior club items will feature an embroidered club crest on the front left breast, and a large silkscreened graphic on the back.**  
 
-[Please look at this PDF for illustrations](Excelsior_Tees_and_Hoodies_Design.pdf)
+[Please look at this PDF for illustrations](/News/2025/10/20/Excelsior_Tees_and_Hoodies_Design.pdf)
 
 - Place your order via the Achieve app, by entering in your account, and making the purchase.
   or
@@ -91,22 +91,22 @@ Crafted with 100% polyester, this garment showcases a sleek two-tone contrast ch
 
 #### Ladies Tees
 
- ![](Ladies_tees.png)
+ ![](/News/2025/10/20/Ladies_tees.png)
 
 #### Youth Tees
 
-![](Youth_tees.png)
+![](/News/2025/10/20/Youth_tees.png)
 
 #### Mens Tees & Hoodies
 
-![](Men_tees_and_hoodies.png)
+![](/News/2025/10/20/Men_tees_and_hoodies.png)
 
 #### Ladies Hoodies
 
-![](Ladies_hoodies.png)
+![](/News/2025/10/20/Ladies_hoodies.png)
 
 #### Youth Hoodies
 
-![](Youth_hoodies.png)
+![](/News/2025/10/20/Youth_hoodies.png)
 
 ###### Posted: 2025-10-21
