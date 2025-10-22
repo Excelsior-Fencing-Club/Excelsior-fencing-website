@@ -36,7 +36,7 @@ Features :
 | Group              | XS  | S   | M   | L   | XL  | 2XL |
 | ------------------ | --- | --- | --- | --- | --- | --- |
 | Youth (crew neck)  | X   | X   | X   | X   | X   |     |
-| Woman's (vee neck) | X   | X   | X   | X   |     | X   |
+| Woman's (vee neck) | X   | X   | X   | X   | X   | X   |
 | Men's (crew neck)  | X   | X   | X   | X   | X   | X   |
 
 #### Available colours
