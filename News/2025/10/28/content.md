@@ -5,6 +5,8 @@
 
 [![Brock Opening](/News/2025/10/28/Brock_openjpg.jpg)](https://www.askfred.net/tournaments/423f3aa1-9a91-487c-bb71-436ee6e7bd86)
 
+### [Register now](https://fencingontario.us4.list-manage.com/track/click?u=794563b23f43b646646b44bde&id=a4159a837b&e=8d41db376d) 
+
 ### Venue
 
 [Brock University, Walker Complex](https://fencingontario.us4.list-manage.com/track/click?u=794563b23f43b646646b44bde&id=4571f8f286&e=8d41db376d), Ian Beddis Gymnasium  
