@@ -10,65 +10,7 @@ title: "Excelsior Fencing Club"
 
 # Excelsior Fencing Club
 
-[link](News/2025/12/02/)
-{% include_relative News/2025/12/02/content.md %}
+[link](News/2026/02/09/)
+{% include_relative News/2026/02/09/content.md %}
 
 ---
-
-[link](News/2025/12/01/)
-{% include_relative News/2025/12/01/content.md %}
-
----
-
-[link](News/2025/11/11/)
-{% include_relative News/2025/11/11/content.md %}
-
----
-
-[link](News/2025/11/10/)
-{% include_relative News/2025/11/10/content.md %}
-
----
-
-[link](News/2025/10/31/)
-{% include_relative News/2025/10/31/content.md %}
-
----
-
-[link](News/2025/10/29/)
-{% include_relative News/2025/10/29/content.md %}
-
----
-
-[link](News/2025/10/28/)
-{% include_relative News/2025/10/28/content.md %}
-
----
-
-[link](News/2025/10/25/)
-{% include_relative News/2025/10/25/content.md %}
-
----
-
-[link](News/2025/10/20/)
-{% include_relative News/2025/10/20/content.md %}
-
----
-
-[link](News/2025/10/04/)
-{% include_relative News/2025/10/04/content.md %}
-
----
-
-[link](News/2025/09/24/)
-{% include_relative News/2025/09/24/content.md %}
-
----
-
-[link](News/2025/09/04/)
-{% include_relative News/2025/09/04/content.md %}
-
----
-
-[link](News/2025/09/03/)
-{% include_relative News/2025/09/03/content.md %}
