@@ -10,7 +10,7 @@ title: "Excelsior Fencing Club"
 
 # News archive
 
-[The History of Fencing](The_History_of_Fencing.md)
+[The History of Fencing](News/2026/The_History_of_Fencing.md)
 
 ---
 
