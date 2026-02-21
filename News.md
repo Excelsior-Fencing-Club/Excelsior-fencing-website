@@ -10,6 +10,10 @@ title: "Excelsior Fencing Club"
 
 # News archive
 
+[The History of Fencing](The_History_of_Fencing.md)
+
+---
+
 [link](News/2026/02/09/)
 {% include_relative News/2026/02/09/content.md %}
 
