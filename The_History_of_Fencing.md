@@ -1,0 +1,7 @@
+The History of Fencing: :)
+
+Fencing is one of the oldest and most respected combat sports in the world, with roots that trace back thousands of years. Originally developed as a method of sword training for warfare and dueling, fencing evolved across ancient civilizations including Egypt, Greece, and Rome. By the Middle Ages and Renaissance period, swordsmanship had become both a practical skill and an art form, particularly in Europe where formal schools of fencing were established.
+
+During the 18th and 19th centuries, fencing transitioned from battlefield training to a regulated sport with standardized weapons and rules. The three modern disciplines—foil, épée, and sabre each developed from different historical fighting styles. Fencing became one of the first sports included in the modern Olympic Games in 1896 and has remained a cornerstone of international competition ever since.
+
+Today, fencing combines tradition, athleticism, strategy, and precision. While modern equipment has made the sport safe and accessible, the spirit of discipline, respect, and skill remains unchanged. At Excelsior Fencing, we proudly continue this rich tradition by helping athletes of all ages discover the excitement and artistry of this timeless sport.
