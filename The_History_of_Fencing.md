@@ -1,4 +1,4 @@
-The History of Fencing
+The History of Fencing: :)
 
 Fencing is one of the oldest and most respected combat sports in the world, with roots that trace back thousands of years. Originally developed as a method of sword training for warfare and dueling, fencing evolved across ancient civilizations including Egypt, Greece, and Rome. By the Middle Ages and Renaissance period, swordsmanship had become both a practical skill and an art form, particularly in Europe where formal schools of fencing were established.
 
