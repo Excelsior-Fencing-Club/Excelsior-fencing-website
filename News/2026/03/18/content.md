@@ -6,7 +6,7 @@ Please arrive by 6:30.
 
 If you want to let us know in advance that you want to participate:
 
-- drop a note in the `#tournaments` channel in Discord.
+- drop a note in the `#tournaments` channel in Discord.  
   or
 - send e-mail to `info@excelsiorfencing.ca`.
 
