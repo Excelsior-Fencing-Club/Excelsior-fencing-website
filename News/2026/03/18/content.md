@@ -1,14 +1,13 @@
-## 2026 April Sabre tournament
+## 2026 March foil tournament
 
-### Date: Wednesday, April 29<sup>th</sup>.
+We're planning on having a Foil tournament on Wednesday, March 25th.
 
-### Weapon: Sabre.
+Please arrive by 6:30.
 
-- Please arrive by 6:30 for sign up.
-- All bouts will be to 5 points.
-- We'll be using [USA Fencing Pool Scoresheets](images/Pool_Scoresheet.pdf) which supports a maximum of 8 players. 
-	- If there are certain people you want to compete with, make sure to organize to be on the same Score sheet.
+If you want to let us know in advance that you want to participate:
 
-![Pool_Scoresheet.png](images/Pool_Scoresheet.png)
+- drop a note in the `#tournaments` channel in Discord.  
+  or
+- send e-mail to `info@excelsiorfencing.ca`.
 
-###### Posted: 2026-03-30
+###### Posted: 2026-03-18
