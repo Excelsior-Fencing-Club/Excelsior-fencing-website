@@ -15,3 +15,7 @@ title: "Excelsior Fencing Club"
 
 ---
 
+[link](News/2026/04/29/)
+{% include_relative News/2026/04/29/content.md %}
+
+---
