@@ -3,12 +3,22 @@ image:
   path: /images/Excelsior-logo.png
   type: image/png
   alt: Excelsior Fencing Club
-description: "Excelsior Fencing Club"
-site_name: "Excelsior Fencing Club"
-title: "Excelsior Fencing Club"
+description: Excelsior Fencing Club News
+site_name: Excelsior Fencing Club
+title: Excelsior Fencing Club News
 ---
 
 # News archive
+
+[link](News/2026/03/30/)
+{% include_relative News/2026/03/30/content.md %}
+
+---
+
+[link](News/2026/04/29/)
+{% include_relative News/2026/04/29/content.md %}
+
+---
 
 [link](News/2026/03/18/)
 {% include_relative News/2026/03/18/content.md %}
