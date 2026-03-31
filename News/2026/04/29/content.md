@@ -9,6 +9,6 @@
 - We'll be using [USA Fencing Pool Scoresheets](images/Pool_Scoresheet.pdf) which supports a maximum of 8 players. 
 	- If there are certain people you want to compete with, make sure to organize to be on the same Score sheet.
 
-![Pool_Scoresheet.png](/images/Pool_Scoresheet.png)
+![Pool_Scoresheet.png](/images/Pool_Scoresheet.png =306x396)
 
 ###### Posted: 2026-03-30
