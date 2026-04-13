@@ -11,7 +11,7 @@ title: Excelsior Fencing Club News
 # News archive
 
 [link](News/2026/04/13/)
-{% include_relative News/2026/04/13/content.md %}
+{% include_relative News/2026/04/09/content.md %}
 
 ---
 
