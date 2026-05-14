@@ -10,13 +10,8 @@ title: "Excelsior Fencing Club"
 
 # Excelsior Fencing Club
 
-[link](News/2026/05/05/)
-{% include_relative News/2026/05/05/content.md %}
-
----
-
-[link](News/2026/04/09/)
-{% include_relative News/2026/04/09/content.md %}
+[link](News/2026/05/18/)
+{% include_relative News/2026/05/18/content.md %}
 
 ---
 
