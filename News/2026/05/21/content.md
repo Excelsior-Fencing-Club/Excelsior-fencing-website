@@ -2,11 +2,6 @@
 
 ### Youth Provincials
 
-#### May 30-31
-
-
-### Youth Provincials
-
 May 30-31  
 Newton's Grove School  
 6850 The Goreway Dr. Mississauga  
