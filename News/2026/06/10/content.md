@@ -1,6 +1,6 @@
 ## Michael Ivankovic - Away week of June 15 to June 21
 
-No competition training during this week as Michael will be out of country. Coach Jake will be running the club in Michael's absence. As such, 
+Michael will be out of country. Coach Jake will be running the club in Michael's absence. As such, 
 
 ### Club open on Friday June 19<sup>th</sup>
 
