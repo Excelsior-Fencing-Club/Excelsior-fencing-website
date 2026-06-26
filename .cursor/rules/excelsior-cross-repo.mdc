@@ -1,0 +1,19 @@
+---
+description: Cross-repo boundaries — website vs club ops
+alwaysApply: true
+---
+
+# Website vs club ops
+
+| Topic | Edit here (website) | Edit in Excelsior-Fencing-Club |
+|-------|---------------------|--------------------------------|
+| News, schedule, coaches (public) | Yes | No |
+| Board minutes, invoices, VSC PDFs | No | Yes |
+| Grants, bylaws, accident reports | No | Yes |
+| WellnessLiving / membership backend | No | Yes (org docs) |
+
+Coach **email addresses** for public `Coaches.md` should match how the club wants to be contacted; internal mailshots may use the same addresses.
+
+If a task spans both (e.g. tournament announcement + board record), do **website news in this repo** and **internal notes in the club repo**.
+
+Club repo agent rules: `.cursor/rules/` on `Excelsior-Fencing-Club` (coaches for VSC, VSC workflow, organization layout).

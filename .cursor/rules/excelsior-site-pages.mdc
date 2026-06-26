@@ -1,0 +1,45 @@
+---
+description: Site pages — frontmatter, coaches, calendar, shared includes
+globs: "{Coaches.md,Calendar.md,Links.md,The_History_of_Fencing.md,index.md,News.md}"
+alwaysApply: false
+---
+
+# Site pages
+
+## Standard frontmatter
+
+Most pages open with:
+
+```yaml
+---
+image:
+  path: /images/Excelsior-logo.png
+  type: image/png
+  alt: Excelsior Fencing Club
+description: "..."
+site_name: Excelsior Fencing Club
+title: "..."
+---
+```
+
+## Coaches.md
+
+- HTML tables with coach bio, `mailto:` links, and `/images/coaches/` photos
+- **Active coaches** on site may differ from club VSC lists — verify `Coaches.md` before public copy
+- Coaching alumni listed at bottom; do not add without approval
+
+## Calendar.md
+
+Pulls shared snippets via `{% include_relative News/... %}` (club times, holidays). Update included files rather than duplicating schedule text.
+
+## Links.md
+
+Curated external links; minimal edits unless adding vetted resources.
+
+## Images
+
+Place assets under `images/` (logo at `images/Excelsior-logo.png`). Use site-root paths in frontmatter (`/images/...`).
+
+## Style
+
+Site uses the **hacker** theme — keep markdown simple; inline HTML in `Coaches.md` is intentional. Preserve existing table/CSS patterns when editing.

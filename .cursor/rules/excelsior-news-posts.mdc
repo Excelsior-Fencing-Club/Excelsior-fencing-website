@@ -1,0 +1,55 @@
+---
+description: How to add and wire up a news post on the site
+globs: News/**
+alwaysApply: false
+---
+
+# News posts
+
+## Folder layout
+
+```
+News/YYYY/MM/DD/
+  content.md    # body (headings, posted date footer)
+  index.md      # page wrapper + frontmatter + include content
+```
+
+Example `content.md` ends with:
+
+```markdown
+###### Posted: 2026-06-10
+```
+
+Example `index.md`:
+
+```markdown
+---
+image:
+  path: /images/Excelsior-logo.png
+  type: image/png
+  alt: Excelsior Fencing Club
+description: Short summary for SEO
+site_name: Excelsior Fencing Club
+title: Same as headline
+---
+
+{% include_relative content.md %}
+```
+
+## After creating a post
+
+1. Add to **top** of repo root `index.md` (homepage teaser):
+
+   ```markdown
+   [link](News/2026/06/10/)
+   {% include_relative News/2026/06/10/content.md %}
+   ---
+   ```
+
+2. Add to **top** of `News.md` (archive) the same way.
+
+## Git workflow
+
+Feature branches often named by post date (e.g. `2026-06-10`). Merge to `main` to publish via GitHub Pages.
+
+Match tone and formatting of neighbouring posts in the same month.

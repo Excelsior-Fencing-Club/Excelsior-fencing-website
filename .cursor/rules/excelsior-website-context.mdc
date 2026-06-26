@@ -1,0 +1,33 @@
+---
+description: Excelsior public website — repo, stack, and sibling club repo
+alwaysApply: true
+---
+
+# Excelsior Fencing Club — public website
+
+**GitHub:** `Excelsior-Fencing-Club/Excelsior-fencing-website`  
+**Local:** `C:\Users\apeta\Documents\Repos\Excelsior\Excelsior-fencing-website`  
+**Live site:** https://www.excelsiorfencing.ca (GitHub Pages)
+
+This repo is an **Obsidian vault** (`.obsidian/`). It is **public-facing content only** — not board minutes, invoices, or VSC records.
+
+## Sibling repo (internal ops)
+
+| Repo | Purpose |
+|------|---------|
+| **Excelsior-Fencing-Club** | Board, grants, invoices, VSC, org docs |
+| **Excelsior-fencing-website** (this repo) | Site pages, news, coaches, calendar |
+
+Persistent agent rules for club ops live in the **club repo** `.cursor/rules/`. This repo’s rules cover **publishing and site structure**.
+
+## Stack
+
+- **Jekyll** on GitHub Pages
+- Theme: `pages-themes/hacker@v0.2.0` (`_config.yml`, `jekyll-remote-theme`)
+- Markdown + YAML frontmatter; Jekyll tags `{% include_relative ... %}`
+
+## Top-level pages
+
+`index.md` (home + recent news), `News.md` (archive), `Coaches.md`, `Calendar.md`, `Links.md`, `The_History_of_Fencing.md`, `images/`
+
+When editing coaches or public copy, prefer this repo — not the club ops repo.
