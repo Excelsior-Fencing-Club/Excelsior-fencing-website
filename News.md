@@ -135,8 +135,10 @@ title: Excelsior Fencing Club News
 
 ---
 
+[link](News/2024/2024-12-08_Closure_notification_prodcedure)
 {% include_relative News/2024/2024-12-08_Closure_notification_prodcedure.md %}
 
 ---
 
+[link](News/2024/2024-09-08-OFA_memberships)
 {% include_relative News/2024/2024-09-08-OFA_memberships.md %}
