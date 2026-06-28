@@ -6,6 +6,8 @@ This guide explains how the public site is built, where content lives, and how t
 **Website repository:** https://github.com/Excelsior-Fencing-Club/Excelsior-fencing-website  
 **Publishing:** GitHub Pages builds from the `main` branch automatically after each merge.
 
+This file lives in the repo root for easy editing on GitHub. It is listed under `exclude` in `_config.yml` so Jekyll does not build it — the examples below contain `{% include_relative %}` tags that would otherwise break the site build.
+
 ---
 
 ## What this site is (and is not)
@@ -103,7 +105,7 @@ Excelsior-fencing-website/
 │   └── 2026/holidays.md              # Year-specific holidays
 ├── Club/                    # Club photo galleries by year
 ├── images/                  # Static images
-└── docs/                    # Documentation (this file)
+└── Updating-the-website.md  # Maintainer guide (excluded from Jekyll build)
 ```
 
 ---
