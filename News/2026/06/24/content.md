@@ -8,28 +8,28 @@ Thank you to all participants. It was a ton of fun. We look forward to seeing yo
 
 #### Rich
 
-![](/News/2026/06/24/IMG_4280.jpg)
+![Rich at the Alpha pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4280.jpg)
 
 #### Oliver
 
-![](/News/2026/06/24/IMG_4281.jpg)
+![Oliver at the Alpha pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4281.jpg)
 
 #### Jake
 
-![](/News/2026/06/24/IMG_4282.jpg)
+![Jake at the Alpha pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4282.jpg)
 
 ### Psi pool
 
 #### Matei
 
-![](/News/2026/06/24/IMG_4283.jpg)
+![Matei at the Psi pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4283.jpg)
 
 #### Brendan
 
-![](/News/2026/06/24/IMG_4284.jpg)
+![Brendan at the Psi pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4284.jpg)
 
 #### Daniel
 
-![](/News/2026/06/24/IMG_4285.jpg)
+![Daniel at the Psi pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4285.jpg)
 
 ###### Posted: 2026-06-24
