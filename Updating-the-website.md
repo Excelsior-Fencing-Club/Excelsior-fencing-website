@@ -210,6 +210,7 @@ Open the relevant root `.md` file (e.g. `Buying.md`, `Find_us.md`), change the M
 **News post photos** live beside the post in `News/YYYY/MM/DD/` (not under `images/`). Before committing phone or camera originals:
 
 - Resize so the longest edge is about **1600 px** and re-save as JPEG (quality ~82). This keeps page load reasonable on mobile.
+- Phone photos often store rotation in EXIF; the compress script applies that orientation before saving so images are not turned sideways.
 - From the repo root, with [Pillow](https://pypi.org/project/pillow/) installed (`pip install Pillow`):
 
   ```bash
