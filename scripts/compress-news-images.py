@@ -18,6 +18,7 @@ for name in sorted(f for f in os.listdir(folder) if f.lower().endswith(".jpg")):
         scale = max_edge / max(w, h)
         if scale < 1:
             im = im.resize((round(w * scale), round(h * scale)), Image.Resampling.LANCZOS)
-        im.save(path, "JPEG", quality=quality, optimize=True, progressive=True)    after = os.path.getsize(path)
+        im.save(path, "JPEG", quality=quality, optimize=True, progressive=True)
+    after = os.path.getsize(path)
     with Image.open(path) as im:
         print(f"{name}: {before:,} -> {after:,} bytes, {im.size[0]}x{im.size[1]}")
