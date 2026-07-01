@@ -22,7 +22,6 @@ Thank you to all participants. It was a ton of fun. We look forward to seeing yo
 
 #### Matei
 
-
 ![](/News/2026/06/24/IMG_4283.jpg)
 
 #### Brendan
@@ -33,4 +32,4 @@ Thank you to all participants. It was a ton of fun. We look forward to seeing yo
 
 ![](/News/2026/06/24/IMG_4285.jpg)
 
-###### Posted: 2026-07-01
+###### Posted: 2026-06-24

@@ -15,4 +15,4 @@ title: "Excelsior Fencing Club"
 
 ---
 
-@ 2026 Excelsior fencing club, Inc. All rights reserved.
+© 2026 Excelsior Fencing Club, Inc. All rights reserved.
