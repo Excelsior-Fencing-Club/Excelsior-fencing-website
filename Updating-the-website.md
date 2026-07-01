@@ -29,7 +29,7 @@ Internal club operations (board minutes, invoices, vulnerable sector checks, gra
 - **Jekyll** turns Markdown (`.md`) files into HTML pages.
 - **GitHub Pages** hosts the built site at `excelsiorfencing.ca` (see `CNAME` in the repo root).
 - **Theme:** [GitHub Pages “hacker” theme](https://github.com/pages-themes/hacker) via `_config.yml` (`remote_theme: pages-themes/hacker@v0.2.0`).
-- **Custom layout:** `_layouts/default.html` adds the site banner, navigation table, and styling around each page’s content.
+- **Custom layout:** `_layouts/default.html` adds the site banner, navigation table, styling, and a site-wide copyright footer around each page’s content.
 - **Obsidian:** The repo is also an Obsidian vault (`.obsidian/`). Many editors use Obsidian locally for preview and note-taking; publishing still happens through GitHub.
 
 Most pages start with YAML **frontmatter** (metadata between `---` lines):
@@ -89,7 +89,10 @@ The navigation bar is defined in `_layouts/default.html`. Each link points to a 
 ```
 Excelsior-fencing-website/
 ├── _config.yml              # Jekyll theme and plugins
-├── _layouts/default.html    # Site chrome, nav, CSS
+├── _includes/
+│   └── site-footer.html     # Site-wide copyright footer
+├── _layouts/default.html    # Site chrome, nav, CSS, footer include
+├── assets/css/style.scss    # Theme overrides (#site_footer display, etc.)
 ├── CNAME                    # Custom domain (excelsiorfencing.ca)
 ├── index.md                 # Homepage + recent news includes
 ├── News.md                  # News archive
@@ -105,6 +108,8 @@ Excelsior-fencing-website/
 │   └── 2026/holidays.md              # Year-specific holidays
 ├── Club/                    # Club photo galleries by year
 ├── images/                  # Static images
+├── scripts/
+│   └── compress-news-images.py       # Optional JPEG resize/compress helper
 └── Updating-the-website.md  # Maintainer guide (excluded from Jekyll build)
 ```
 
@@ -124,6 +129,8 @@ News posts live in dated folders: `News/YYYY/MM/DD/`.
 ## Headline here
 
 Body text…
+
+![Short description of the photo](/News/2026/06/15/IMG_0001.jpg)
 
 ###### Posted: 2026-06-15
 ```
@@ -199,6 +206,32 @@ Open the relevant root `.md` file (e.g. `Buying.md`, `Find_us.md`), change the M
 1. Add the file under `images/` (or `images/coaches/` for coach photos).
 2. Reference it with a site-root path: `/images/your-file.jpg`
 3. Commit the image file together with the Markdown that references it.
+
+**News post photos** live beside the post in `News/YYYY/MM/DD/` (not under `images/`). Before committing phone or camera originals:
+
+- Resize so the longest edge is about **1600 px** and re-save as JPEG (quality ~82). This keeps page load reasonable on mobile.
+- Phone photos often store rotation in EXIF; the compress script applies that orientation before saving so images are not turned sideways.
+- From the repo root, with [Pillow](https://pypi.org/project/pillow/) installed (`pip install Pillow`):
+
+  ```bash
+  python scripts/compress-news-images.py News/2026/06/24
+  ```
+
+- Add **alt text** on every image in `content.md`:
+
+  ```markdown
+  ![Rich at the Alpha pool, June 2026 Épée mini-tournament](/News/2026/06/24/IMG_4280.jpg)
+  ```
+
+### 6. Update the site copyright footer
+
+The copyright line appears on **every page**, not just the homepage.
+
+| File | Role |
+|------|------|
+| `_includes/site-footer.html` | Footer HTML (edit the copyright text here) |
+| `_layouts/default.html` | Includes the footer after page content |
+| `assets/css/style.scss` | `#site_footer` override — the theme hides generic `<footer>` elements; this rule makes the club footer visible |
 
 ---
 
@@ -301,6 +334,7 @@ Then open http://localhost:4000. This runs the same Jekyll processing GitHub Pag
 | Feature | Example | Used for |
 |---------|---------|----------|
 | `{% include_relative path %}` | `{% include_relative News/2026/06/10/content.md %}` | News teasers on home/archive; calendar snippets |
+| `{% include path %}` | `{% include site-footer.html %}` | Site-wide copyright footer in the layout |
 | Frontmatter | `title`, `description`, `image` | SEO (`{% seo %}` in layout) and social previews |
 | Remote theme | `_config.yml` | Base “hacker” styling via `assets/css/style.css` |
 
@@ -316,6 +350,7 @@ Avoid renaming `_layouts/default.html` or `_config.yml` unless you understand th
 - [ ] Coach changes: photo added to `images/coaches/` if new
 - [ ] Links tested (especially external registration and mailto links)
 - [ ] `###### Posted: YYYY-MM-DD` footer on new news posts
+- [ ] News photos compressed for web (~1600 px max edge) and given alt text
 
 ---
 
@@ -327,4 +362,4 @@ Avoid renaming `_layouts/default.html` or `_config.yml` unless you understand th
 
 ---
 
-*Last updated: 2026-06-27*
+*Last updated: 2026-07-01*
