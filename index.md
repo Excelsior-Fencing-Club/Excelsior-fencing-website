@@ -12,7 +12,3 @@ title: "Excelsior Fencing Club"
 
 [link](News/2026/06/24/)
 {% include_relative News/2026/06/24/content.md %}
-
----
-
-© 2026 Excelsior Fencing Club, Inc. All rights reserved.
