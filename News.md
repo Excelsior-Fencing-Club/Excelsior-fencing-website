@@ -10,6 +10,16 @@ title: Excelsior Fencing Club News
 
 # News archive
 
+[link](News/2026/07/31/)
+{% include_relative News/2026/07/31/content.md %}
+
+---
+
+[link](News/2026/07/29/)
+{% include_relative News/2026/07/29/content.md %}
+
+---
+
 [link](News/2026/06/24/)
 {% include_relative News/2026/06/24/content.md %}
 
