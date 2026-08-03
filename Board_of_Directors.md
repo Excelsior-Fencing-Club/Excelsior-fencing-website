@@ -8,7 +8,7 @@ site_name: "Excelsior Fencing Club"
 title: "Excelsior Fencing Club"
 ---
 
-# Our Board of Directors (2023-2024):
+# Our Board of Directors (2026/2027):
 
 | Role           | Name           |
 | -------------- | -------------- |
