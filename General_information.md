@@ -16,8 +16,9 @@ More information about the programs we offer:
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                                    |
 | [Development and Recreation program](Development_and_Recreation.md) | $170/month or<br>$480/term. Billed in: <br>- September<br>- January<br>- April |
+| Holiday month camp (July, August & December)                        | $50/month                                                                      |
 
-For all regular members (whether they pay monthly or per term), open fencing is free for the months of July and August.
+Reduced programming for regular members during holiday months. See the [Calendar](Calendar.md) for closures.
 
 ## Minimum age for fencers
 
