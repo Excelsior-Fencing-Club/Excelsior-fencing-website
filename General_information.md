@@ -1,4 +1,4 @@
-# 2023/2024 Programs and Pricing
+# 2026/2027 Programs and Pricing
 
 Questions? [info@excelsiorfencing.ca](mailto:info@excelsiorfencing.ca)  
 Better yet, come see us on fencing nights.
@@ -12,11 +12,24 @@ More information about the programs we offer:
 
 ## Schedule of Fees
 
-| Program                                                             | Price                                                                          |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Introductory program](Intro_to_Fencing.md)                         | $200/class (when available)                                                    |
-| [Development and Recreation program](Development_and_Recreation.md) | $170/month or<br>$480/term. Billed in: <br>- September<br>- January<br>- April |
-| Holiday month camp (July, August & December)                        | $50/month                                                                      |
+<table>
+  <tr>
+    <th style="border: 1px solid #666 !important; padding: 5px 10px;">Program</th>
+    <th style="border: 1px solid #666 !important; padding: 5px 10px;">Price</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;"><a href="Intro_to_Fencing.html">Introductory program</a></td>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;">$200/class (when available)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;"><a href="Development_and_Recreation.html">Development and Recreation program</a></td>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;">$170/month or<br>$480/term. Billed in:<br>- September<br>- January<br>- April</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;">Holiday month camp (July, August &amp; December)</td>
+    <td style="border: 1px solid #666 !important; padding: 5px 10px;">$50/month</td>
+  </tr>
+</table>
 
 Reduced programming for regular members during holiday months. See the [Calendar](Calendar.md) for closures.
 
