@@ -6,6 +6,6 @@
 Expected duration: 90 minutes to 2 hours. 
 
 Location: 77 Willow St, Waterloo.  
-https://excelsiorfencing.ca/Find_us.html
+[https://excelsiorfencing.ca/Find_us.html](https://excelsiorfencing.ca/Find_us.html)
 
 ###### Posted: 2026-10-10
